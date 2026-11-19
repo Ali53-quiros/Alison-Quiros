@@ -18,9 +18,9 @@ public class Practica {
     public static void main(String[] args) {
        Registro registro= new Registro();
 
-        registro.registrarInventario();
+        registro.registrarRgistro();
 
-        registro.mostrarInventario();
+        registro.mostrarRegistro();
     }
     
 }
